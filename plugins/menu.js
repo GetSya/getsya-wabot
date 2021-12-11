@@ -43,9 +43,6 @@ const defaultMenu = {
 │ Waktu: *%time*
 │
 │ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
